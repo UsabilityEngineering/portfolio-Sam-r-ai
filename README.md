@@ -1,6 +1,7 @@
-# UX Portfolio
+# Justin Cheung's UX Portfolio
 
-About me...
+Hello, my name is Justin. 
+Design is related to my career
 
 ## UX Team Project
 
