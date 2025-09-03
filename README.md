@@ -11,4 +11,4 @@ Coming soon.
 
 ## UX Journal
 
-[Replace with title of journal](journal/)
+[Journal 1 UX Reflection](journal/entry1.md)
