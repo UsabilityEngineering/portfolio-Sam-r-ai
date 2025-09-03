@@ -26,4 +26,4 @@ There is good **feedback** because lights blink when I press a button, letting m
 
 My **mental model** worked pretty well. I play music and have used a lot of audio software, so most of the labeled buttons made intuitive sense to me in terms of what they do.
 
-The board is pretty smooth and intuitive. I think there’s just a learning curve, and I have a lot more learning to do, but it’s super easy to switch between songs. I’m excited to learn more of its features because there are a ton. I’ve just been doing the basic stuff.
+Overall my experience with the board is really good. The basics were easy to pickup and learn. It was really easy to play around with the different functions. If I want to become better, then I can lookup tutorials online to find out and learn how to use the board better.The board is pretty smooth and intuitive. I think there’s just a learning curve, and I have a lot more learning to do, but it’s super easy to switch between songs. I’m excited to learn more of its features because there are a ton. I’ve just been doing the basic stuff.
