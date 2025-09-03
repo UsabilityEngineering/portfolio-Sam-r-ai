@@ -11,4 +11,4 @@ Coming soon.
 
 ## UX Journal
 
-[Journal 1 UX Reflection](journal/entry1.md)
+[Journal 1 UX Reflection](journal/README.md)
