@@ -16,7 +16,7 @@ The two large turntables resemble CDs. If I were to rewind a CD, I’d make it g
 
 Here is a live demo of using the board to mix songs:
 
-[![Watch the demo](pioneerboard.png)](https://youtu.be/7pjlsbp2C-g)
+[![Watch the demo](playvideo.png)](https://youtu.be/7pjlsbp2C-g)
 
 The **convention** of this product is familiar compared to a lot of other DJ products. The turntables, knobs, and buttons are universally understandable to someone who mixes. I can boot up songs I’ve saved onto streaming platforms like SoundCloud, and navigating those songs using the UI is pretty simple.
 
