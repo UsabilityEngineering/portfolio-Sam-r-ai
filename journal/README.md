@@ -3,7 +3,7 @@
 **Justin Cheung – 9/3/2025**
 
 Hello everyone, today I will be sharing my user experience with the Pioneer DJ board. I love listening to remixes and have always wanted to learn how to mix myself. My end goal is to get good enough to DJ at a party at least once.
-
+You can check out the [Pioneer DJ DDJ-FLX4 Controller on Guitar Center](https://www.guitarcenter.com/Pioneer-DJ/DDJ-FLX4-2-Channel-DJ-Controller-Black-1500000386681.gc?template=0y7n73MAL4Km&source=4WWRWXGP&utm_medium=paid-search&utm_source=google&utm_campaign=GC_G_Existing-Customer_NTM_PLA-PMX_Pro-Audio_Top-SKUs_Existing-Customer_N&utm_term=1500000386681&utm_content=pla&utm_id=21051863202&utm_creative=&utm_marketing_tactic=pro-audio&gad_source=1&gad_campaignid=21061860439&gbraid=0AAAAADtcCuw4wWpeypXEBEZ2z7DU6piAx&gclid=Cj0KCQjwzt_FBhCEARIsAJGFWVmDb7SX-egiIdnq6JdqNElRZBofDY9jr4g_O0ZMNL2HdDNuWUB4J-caAsEhEALw_wcB).
 Here is a photo of what the board looks like.
 
 The board from Pioneer comes with free software called Rekordbox, which I had to download onto my laptop and other computers I want to mix on. The board is plugged in via USB-C. I didn’t have to play around with where the audio comes from because it automatically plays out of my computer, but if I want to play it out of speakers, I need to plug in additional cables that I don’t have. I navigated the controls by having a friend teach me a little bit and then just messing around with the board.
